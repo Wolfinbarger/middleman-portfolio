@@ -1,19 +1,14 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Word Quest
+  description: A RPG game in which the user learns a foreign language as they play.
+  image: projects/word_quest.png
+  url: https://www.wordquest.app
+
+- name: Blork'S Used Spaceship Emporium
+  description: Fictional website that allows renting of spaceships in the style of Airbnb
+  image: projects/blork.png
+  url: https://blorks-used-spaceships.herokuapp.com
 
 - name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+  description: Simple website that allows creation of movie lists.
+  image: projects/watchlist.png
+  url: https://cinema-watchlist.herokuapp.com/
