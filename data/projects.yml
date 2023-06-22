@@ -1,7 +1,7 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Word Quest
+  description: A RPG game in which the user learns a foreign language as they play.
+  image: projects/word_quest.png
+  url: https://www.wordquest.app
 
 - name: Movie Watchlist
   description: Decent description of the app
