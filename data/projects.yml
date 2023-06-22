@@ -8,10 +8,10 @@
   image: projects/blork.png
   url: https://blorks-used-spaceships.herokuapp.com
 
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Movie Watchlist
+  description: Simple website that allows creation of movie lists.
+  image: projects/watchlist.png
+  url: https://cinema-watchlist.herokuapp.com/
 
 - name: Final project
   description: Decent description of the app
